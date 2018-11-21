@@ -3,6 +3,4 @@ git is free software under the GPL.
 
  -- git reset
 
- this is dev bug001 fix.
-
- change at 2018-11-21
+ this is feature01
