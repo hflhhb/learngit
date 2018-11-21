@@ -3,4 +3,4 @@ git is free software under the GPL.
 
  -- git reset
 
-this is on master branch merge dev branch.
+this is on master branch merge dev branch -- remote 2 local.
