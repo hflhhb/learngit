@@ -3,6 +3,6 @@ git is free software under the GPL.
 
  -- git reset
 
- this is dev branch.
+ this is dev bug001 fix.
 
  change at 2018-11-21
